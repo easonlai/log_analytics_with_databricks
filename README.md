@@ -1,1 +1,3 @@
-"# log_analytics_with_databricks" 
+# Azure Databricks notebook sample to connect Blob Storage of Azure Log Analytics
+
+
